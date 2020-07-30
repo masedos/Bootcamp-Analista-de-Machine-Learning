@@ -12,7 +12,7 @@ Assim possibiliou que pudesse estudar através de desafios semanais sucessivos q
 
 ## Conteúdo do bootcamp
 
-SmartyPants converts ASCII punctuation characters into "smart" typographic punctuation HTML entities. For example:
+Nos links abaixo de cada módulo disponibilizo materiais de trabalhos práticos e desafios estudados no bootcamp:
 
 |ABERTURA |MÓDULO 1|MÓDULO 2 |MÓDULO 3 |MÓDULO 4 |DESAFIO FINAL|
 |---------|--------|---------|---------|---------|-------------|
