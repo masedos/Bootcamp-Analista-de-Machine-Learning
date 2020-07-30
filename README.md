@@ -14,7 +14,7 @@ Assim possibiliou que pudesse estudar através de desafios semanais sucessivos q
 
 Nos links abaixo de cada módulo disponibilizo materiais de trabalhos práticos e desafios estudados no bootcamp:
 
-|[ABERTURA](Bootcamp-Analista-de-Machine-Learning/tree/master/Abertura) |MÓDULO 1|MÓDULO 2 |MÓDULO 3 |MÓDULO 4 |DESAFIO FINAL|
+|[ABERTURA](/Bootcamp-Analista-de-Machine-Learning/tree/master/Abertura) |MÓDULO 1|MÓDULO 2 |MÓDULO 3 |MÓDULO 4 |DESAFIO FINAL|
 |---------|--------|---------|---------|---------|-------------|
 |`4h`     |`32h`   |`32h`    |`32h`    |`32h`    |`12h`        |   
 |Aquecimento e Regras do Jogo |Fundamentos|Modelos Preditivos e Séries Temporais | Seleção de Modelos de Aprendizado de Máquina |Metodologias de Aprendizado|Desafio Final|
