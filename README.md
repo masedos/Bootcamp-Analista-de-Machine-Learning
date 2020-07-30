@@ -1,13 +1,14 @@
 # Bootcamp - Analista de Machine Learning
 
-Certificado: [Curso em andamento](https://www.igti.com.br/custom/bootcamp-analista-de-machine-learning/)
+`Certificado:` [Curso em andamento](https://www.igti.com.br/custom/bootcamp-analista-de-machine-learning/)
 </br></br>
-
+`Duração:` 2 meses, 148 horas
+</br></br>
 bootcamp: [https://www.igti.com.br/custom/bootcamp-analista-de-machine-learning/](https://www.igti.com.br/custom/bootcamp-analista-de-machine-learning/)
 </br></br>
 
-Faça seu Bootcamp com desafios aplicados em situações do mundo real
-Estude através de desafios semanais sucessivos que evoluem em complexidade e abrangência.
+Este bootcamp da [IGTI](https://www.igti.com.br/), tem como objetivo estudar a teoria por trás do Machine Learning e praticar através dos desafios aplicados em situações do mundo real.</br>
+Assim possibiliou que pudesse estudar através de desafios semanais sucessivos que evoluem em complexidade e abrangência.
 
 ## Conteúdo do bootcamp
 
