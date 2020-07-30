@@ -1,10 +1,13 @@
 # Bootcamp - Analista de Machine Learning
+
+Certificado: [Curso em andamento](https://www.igti.com.br/custom/bootcamp-analista-de-machine-learning/)
+</br></br>
+
 bootcamp: [https://www.igti.com.br/custom/bootcamp-analista-de-machine-learning/](https://www.igti.com.br/custom/bootcamp-analista-de-machine-learning/)
-</br></br></br>
+</br></br>
+
 Faça seu Bootcamp com desafios aplicados em situações do mundo real
-
 Estude através de desafios semanais sucessivos que evoluem em complexidade e abrangência.
-
 
 ## Conteúdo do bootcamp
 
