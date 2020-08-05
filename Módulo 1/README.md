@@ -1,5 +1,5 @@
 # Módulo 1 - Fundamentos de Machine Learning
-## Objetivo:
+## Objetivos:
 Exercitar os seguintes conceitos trabalhados no Módulo:
 - Análise exploratória dos dados (EDA - Exploratory Data Analysis)
 - Preparação dos dados
