@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/made%20by-masedos-blue)](https://www.linkedin.com/in/masedos/)
 ![GitHub repo size](https://img.shields.io/badge/-machine%20learning-orange)
 
-`Certificado:` [Curso em andamento](https://www.igti.com.br/custom/bootcamp-analista-de-machine-learning/)
+`Certificado:` [Acesse aqui](Fernandes Macedo RibeiroBootcamp Analista de Machine Learning.pdf)
 </br></br>
 `Duração:` 2 meses, 148 horas
 </br></br>
