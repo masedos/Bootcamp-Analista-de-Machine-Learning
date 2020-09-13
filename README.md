@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/made%20by-masedos-blue)](https://www.linkedin.com/in/masedos/)
 ![GitHub repo size](https://img.shields.io/badge/-machine%20learning-orange)
 
-`Certificado:` [Acesse aqui](Fernandes Macedo RibeiroBootcamp Analista de Machine Learning.pdf)
+`Certificado:` [Acesse aqui](https://github.com/masedos/Bootcamp-Analista-de-Machine-Learning/blob/master/Fernandes%20Macedo%20RibeiroBootcamp%20Analista%20de%20Machine%20Learning.pdf)
 </br></br>
 `Duração:` 2 meses, 148 horas
 </br></br>
