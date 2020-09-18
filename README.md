@@ -1,6 +1,14 @@
 # Bootcamp - Analista de Machine Learning
-# <font color='#2b78e4'>Analista de Machine Learning</font>
 
+
+  - type: markdown
+    content: >
+      <h1><font color="rgb(128,0,128)">This text should be purple</font></h1>
+      
+      
+<h1>
+<font color='#2b78e4'>Analista de Machine Learning</font>
+</h1>
 <span style="color:#2b78e4">some **Analista de Machine Learning**</span>
 
 [![](https://img.shields.io/badge/made%20by-masedos-blue)](https://www.linkedin.com/in/masedos/)
