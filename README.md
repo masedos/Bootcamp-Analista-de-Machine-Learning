@@ -1,5 +1,5 @@
 # Bootcamp - Analista de Machine Learning
-<font color='red'>Analista de Machine Learning</font>
+# <font color='#2b78e4'>Analista de Machine Learning</font>
 
 <span style="color:#2b78e4">some **Analista de Machine Learning**</span>
 
