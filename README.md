@@ -1,8 +1,8 @@
 [![](https://github.com/masedos/Bootcamp-Analista-de-Machine-Learning/blob/master/logo.png)](https://www.linkedin.com/in/masedos/)
 
-![](https://github.com/masedos/Bootcamp-Analista-de-Machine-Learning/blob/master/logo.png)]
+![](https://github.com/masedos/Bootcamp-Analista-de-Machine-Learning/blob/master/logo.png)
 
-[](https://github.com/masedos/Bootcamp-Analista-de-Machine-Learning/blob/master/logo.png)]
+[](https://github.com/masedos/Bootcamp-Analista-de-Machine-Learning/blob/master/logo.png)
 
 
 
