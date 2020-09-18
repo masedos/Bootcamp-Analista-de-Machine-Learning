@@ -1,5 +1,5 @@
 # Bootcamp - Analista de Machine Learning
-
+<span style="color:#2b78e4">some **Analista de Machine Learning**</span>
 [![](https://img.shields.io/badge/made%20by-masedos-blue)](https://www.linkedin.com/in/masedos/)
 ![GitHub repo size](https://img.shields.io/badge/-machine%20learning-orange)
 
