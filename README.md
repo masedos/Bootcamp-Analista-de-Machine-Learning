@@ -25,5 +25,5 @@ Nos links abaixo de cada módulo disponibilizo materiais de trabalhos práticos 
 
 ## Trilha do bootcamp
 
-[![](https://github.com/masedos/Bootcamp-Cientista-de-Dados/blob/master/Trilha%20Cientista%20de%20Dados.png)](https://www.linkedin.com/in/masedos/)
+[![](https://github.com/masedos/Bootcamp-Analista-de-Machine-Learning/blob/master/Trilha%20Machine%20Learning.png)](https://www.linkedin.com/in/masedos/)
 
