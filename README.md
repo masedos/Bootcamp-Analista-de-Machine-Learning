@@ -1,3 +1,8 @@
+  - type: markdown
+    content: >
+      <h1><font color="rgb(128,0,128)">This text should be purple</font></h1>
+      
+
 # Bootcamp - Analista de Machine Learning
 
 
