@@ -23,3 +23,7 @@ Nos links abaixo de cada módulo disponibilizo materiais de trabalhos práticos 
 |Aquecimento e Regras do Jogo |Fundamentos|Modelos Preditivos e Séries Temporais | Seleção de Modelos de Aprendizado de Máquina |Metodologias de Aprendizado|Desafio Final|
 |Visão geral da dinâmica do curso, conteúdos e ferramentas utilizadas.|Comparação e aplicação de algoritmos de Machine Leaarning.|Comparação e aplicação de modelos preditivos.|Realização da sintonia de parâmetros e comparação dos resultados por meio de métricas de desempenho.|Aplicação de algoritmos de classificação e previsão para identificar comportamentos anormais.|Conclusão da aplicação final.|
 
+## Trilha do bootcamp
+
+[![](https://github.com/masedos/Bootcamp-Cientista-de-Dados/blob/master/Trilha%20Cientista%20de%20Dados.png)](https://www.linkedin.com/in/masedos/)
+
