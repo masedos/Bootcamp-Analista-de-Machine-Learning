@@ -1,6 +1,6 @@
 # Bootcamp - Analista de Machine Learning
 
-[![IMAGE ALT TEXT HERE](https://github.com/masedos/Bootcamp-Analista-de-Machine-Learning/blob/master/title.png)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[![](https://github.com/masedos/Bootcamp-Analista-de-Machine-Learning/blob/master/title.png)](https://www.linkedin.com/in/masedos/)
 
 
 [![](https://img.shields.io/badge/made%20by-masedos-blue)](https://www.linkedin.com/in/masedos/)
